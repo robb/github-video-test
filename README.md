@@ -22,6 +22,11 @@
 `<img src="./record.gif">`
 <img src="./record.gif">
 
+## HTML `img` tag with `src` and `srcset`
+
+`<img srcset="./record.mov, ./record.webm" src="./record.gif">`
+<img srcset="./record.mov, ./record.webm" src="./record.gif">
+
 ## HTML `picture` tag
 
 ```html
